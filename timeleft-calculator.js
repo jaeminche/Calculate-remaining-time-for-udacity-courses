@@ -19,5 +19,5 @@ function add(a, b) {
 }
 console.log(numbers);
 
-console.log(sum + '시간 남았다으!');
+console.log('Time remaining: ' + sum);
 
